@@ -1,0 +1,2 @@
+LOCAL_OBJECTS = \
+matrHyper1Foam.o

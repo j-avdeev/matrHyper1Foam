@@ -1,0 +1,4 @@
+matrHyper1Foam.C
+
+EXE = $(FOAM_USER_APPBIN)/matrHyper1Foam
+
